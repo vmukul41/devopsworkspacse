@@ -1,5 +1,3 @@
-print("hi")
-print("first program")
 
 print("hi")
 print("2 program")
@@ -7,5 +5,12 @@ print("2 program")
 
 print("hi")
 print("3 program")
+
+print("hi")
+print("first program")
+
+print("hi")
+print("4 program")
+
 
 
